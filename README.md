@@ -39,8 +39,8 @@ requests
 ```
 $ apt update && apt upgrade
 $ pkg update;pkg install python2
-$ git clone https://github.com/mrvirusrecord/MDSpammers
-$ cd MDSpammers
+$ git clone https://github.com/mrvirusrecord/spam2021
+$ cd spam2021
 $ pip2 install requests
 $ python2 spams.py
 ```
